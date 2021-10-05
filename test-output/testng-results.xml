@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="13" passed="13">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="301133" started-at="2021-10-05T15:03:34 IST" finished-at="2021-10-05T15:08:35 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="301133" started-at="2021-10-05T15:03:34 IST" finished-at="2021-10-05T15:08:35 IST">
+      <class name="day6_2.HotelBookingFinal">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:day6_2.HotelBookingFinal@3e57cd70]" name="beforeTest" is-config="true" duration-ms="18591" started-at="2021-10-05T15:03:34 IST" finished-at="2021-10-05T15:03:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test1" duration-ms="9400" started-at="2021-10-05T15:03:53 IST" description="For checking whether user is on main page or not " finished-at="2021-10-05T15:04:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test2()[pri:2, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test2" duration-ms="5798" started-at="2021-10-05T15:04:02 IST" description="For chceking whether user is on Hotels page or not" finished-at="2021-10-05T15:04:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="test3()[pri:3, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test3" duration-ms="7893" started-at="2021-10-05T15:04:08 IST" description="For checking whether user is able to enter any city name" finished-at="2021-10-05T15:04:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method status="PASS" signature="test4()[pri:4, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test4" duration-ms="14030" started-at="2021-10-05T15:04:16 IST" description="For checking whether user is able to select city from list" finished-at="2021-10-05T15:04:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method status="PASS" signature="test5()[pri:5, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test5" duration-ms="7012" started-at="2021-10-05T15:04:30 IST" description="For checking whether user is able to select any hotel name" finished-at="2021-10-05T15:04:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method status="PASS" signature="test6()[pri:6, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test6" duration-ms="13289" started-at="2021-10-05T15:04:37 IST" description="For checking whether user is able to select hotel from list" finished-at="2021-10-05T15:04:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method status="PASS" signature="test7()[pri:7, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test7" duration-ms="19654" started-at="2021-10-05T15:04:50 IST" description="For checking whether user is able to select check in date" finished-at="2021-10-05T15:05:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method status="PASS" signature="test8()[pri:8, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test8" duration-ms="23553" started-at="2021-10-05T15:05:10 IST" description="For checking whether user is able to select check out date" finished-at="2021-10-05T15:05:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method status="PASS" signature="test9()[pri:9, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test9" duration-ms="27688" started-at="2021-10-05T15:05:33 IST" description="For checking whether user is able to add or subtract adults" finished-at="2021-10-05T15:06:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method status="PASS" signature="test10()[pri:10, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test10" duration-ms="32369" started-at="2021-10-05T15:06:01 IST" description="For checking whether user is able to add or subtract no of children and select their age" finished-at="2021-10-05T15:06:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method status="PASS" signature="test11()[pri:11, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test11" duration-ms="34804" started-at="2021-10-05T15:06:33 IST" description="For checking whether user is able to add or remove rooms and click on done" finished-at="2021-10-05T15:07:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method status="PASS" signature="test12()[pri:12, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test12" duration-ms="41154" started-at="2021-10-05T15:07:08 IST" description="For checking whether Search button is working or not" finished-at="2021-10-05T15:07:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method status="PASS" signature="test13()[pri:13, instance:day6_2.HotelBookingFinal@3e57cd70]" name="test13" duration-ms="40490" started-at="2021-10-05T15:07:49 IST" description="For checking whether user is able to book hotel room" finished-at="2021-10-05T15:08:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:day6_2.HotelBookingFinal@3e57cd70]" name="afterTest" is-config="true" duration-ms="5204" started-at="2021-10-05T15:08:30 IST" finished-at="2021-10-05T15:08:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- day6_2.HotelBookingFinal -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
